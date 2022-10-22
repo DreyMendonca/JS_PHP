@@ -1,0 +1,16 @@
+{
+    "name": "admin/cadastrodepresenca",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Cadastrodepresenca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrey",
+            "email": "drey.santos2005@gmail.com"
+        }
+    ],
+    "require": {}
+}
